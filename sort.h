@@ -5,8 +5,6 @@
 #include <stdlib.h>
 #include <stddef.h>
 
-#define UP 0
-#define DOWN 1 /* Comparison direction macros */
 
 /**
  * struct listint_s - Doubly linked list node
